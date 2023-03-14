@@ -1,5 +1,5 @@
 <h1 align="center">Hola everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
-
+<p align="center"> Competitive Programmer | Tech enthusiast | Senior @JU-CSE | Executive Member @JU COMPUTER CLUB </p>
 
 <p align="center" style="bg-color:grey">
 <a href="https://www.linkedin.com/in/imnasim31415/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imnasim3.1415" height="70" width="40" /></a>    
@@ -14,22 +14,29 @@
 <a href="https://www.stopstalk.com/user/profile/imnasim31415" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/256/code.png" alt="jucse28_391" height="50" width="40" /></a>
 </p>
 
-
-
-#### Competitive Programmer | Tech enthusiast | Senior @JU-CSE | Executive Member @JU COMPUTER CLUB
 I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming, aspiring to be a Software Engineer. working as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com. Also teaching aspiring high school students.
-
-
-
-Skills: C++ / Data structure / Algorithm / Django / Python
-
-- 🔭 I’m currently working on this page. 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 <hr />
 
 
+<h3 align="center"> Programming Languages </h4>
+
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/256/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="38"/> </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql.png" alt="c" width="40" height="40"/> </a> 
+</p>
+<hr />
+
+<h3 align="center"> Tools </h4>
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="35" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="41" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> </a>
+</p>
+<hr />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&&theme=gotham" width="420"/>
