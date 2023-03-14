@@ -1,4 +1,4 @@
-### Hola everyone 👋, **Nasim** this side
+<h1 align="center">Hola everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
 #### Competitive Programmer | Tech enthusiast | Senior @JU-CSE | Executive Member @JU COMPUTER CLUB
 I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming, aspiring to be a Software Engineer. working as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com. Also teaching aspiring high school students.
 
