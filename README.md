@@ -13,6 +13,8 @@ Skills: C++ / Data structure / Algorithm / Django / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnasim31415&theme=gotham&show_icons=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imnasim31415&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imnasim31415)  
