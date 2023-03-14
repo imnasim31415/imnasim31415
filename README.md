@@ -1,4 +1,5 @@
 <h1 align="center">Hola everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
+
 #### Competitive Programmer | Tech enthusiast | Senior @JU-CSE | Executive Member @JU COMPUTER CLUB
 I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming, aspiring to be a Software Engineer. working as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com. Also teaching aspiring high school students.
 
@@ -12,11 +13,19 @@ Skills: C++ / Data structure / Algorithm / Django / Python
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&&theme=gotham" width="420"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnasim31415&theme=gotham&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnasim31415&theme=gotham&show_icons=true" width="420"/>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=imnasim31415)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imnasim31415&theme=gotham&show_icons=true" width="420"/>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/imnasim31415)  
+<p align="center">
+  <img src="https://gpvc.arturio.dev/imnasim31415" width="420"/>
+</p>
 
