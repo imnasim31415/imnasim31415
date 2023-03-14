@@ -6,6 +6,7 @@
 <a href="https://medium.com/@imnasim3.1415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="imnasim3.1415" height="70" width="40" /></a>     
 <a href="https://www.instagram.com/imnasim3.1415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imnasim3.14415" height="70" width="40" /></a>   
 <a href="https://www.facebook.com/imnasim3.1415/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imnasim3.14415" height="70" width="40" /></a>       
+  <a href="imnasim3.1415#0760" target="blank"><img align="center" src="https://img.icons8.com/ios/256/discord-logo--v1.png" alt="imnasim3.14415" height="60" width="35" /></a> 
 <a href="https://atcoder.jp/users/imnasim31415" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="imnasim3.1415" height="70" width="40" /></a> 
 <a href="https://codeforces.com/profile/imnasim3.1415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="imnasim3.1415" height="70" width="40" /> </a>  
 <a href="https://www.codechef.com/users/imnasim3_1415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="imnasim3.1415" height="70" width="40" /> </a>  
