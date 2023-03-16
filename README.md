@@ -14,7 +14,7 @@
 <a href="https://www.stopstalk.com/user/profile/imnasim31415" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/256/code.png" alt="jucse28_391" height="50" width="40" /></a>
 </p>
 
-I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming, aspiring to be a Software Engineer. working as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com. Also teaching aspiring high school students.
+I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming and problem solving. Solved more than 3000+ problems on different platforms. Like to explore new technologies and devices. Currently focused about improving my problem solving skills. Beside these stuffs, i also teach academics to the college going students. Teaching and communicating with people is another thing that i enjoy. Previously worked as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com.
 
 <hr />
 
