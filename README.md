@@ -1,20 +1,6 @@
 <h1 align="center">Hello everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
 <p align="center"> Junior Software Engineer @DSi | Competitive Programmer | Programming Instructor | 2xICPC Dhaka Regionalist </p>
 
-<p align="center" style="background-color: grey; padding: 10px;">
-  <a href="https://www.linkedin.com/in/imnasim31415/" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
-  </a> 
-  <a href="https://codeforces.com/profile/imnasim3.1415" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/jucse28_391" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/windows/256/hackerrank.png" alt="HackerRank" height="40" width="40" />
-  </a>
-  <a href="https://www.stopstalk.com/user/profile/imnasim31415" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/256/code.png" alt="StopStalk" height="40" width="40" />
-  </a>
-</p>
 
 
 Hi, I’m Nasim Hossain, a computer science graduate from Jahangirnagar University currently working as a junior software engineer at Dynamic Solution Innovators. My journey in tech has been driven by a profound passion for Competitive Programming and problem-solving, having solved over 2,500 problems across various platforms. I’m always curious about emerging technologies and dedicated to refining my skills to tackle complex challenges.
