@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
-<p align="center"> Competitive Programmer | Tech enthusiast | Programming Instructor  </p>
+<p align="center"> Junior Software Engineer @DSi | Competitive Programmer | Programming Instructor | 2xICPC Dhaka Regionalist </p>
 
 <p align="center" style="background-color: grey; padding: 10px;">
   <a href="https://www.linkedin.com/in/imnasim31415/" target="_blank" style="margin-right: 20px;">
@@ -17,7 +17,7 @@
 </p>
 
 
-I am currently pursuing my Engineering degree in Computer Science from Jahangirnagar University. Passionate about Competitive programming and problem solving. Solved more than 3000+ problems on different platforms. Like to explore new technologies and devices. Currently focused about improving my problem solving skills. Beside these stuffs, i also teach academics to the college going students. Teaching and communicating with people is another thing that i enjoy. Previously worked as an Executive member at JU Computer Club, Campus Ambassador at Caretutor.com.
+Hi, I’m Nasim Hossain, a computer science graduate from Jahangirnagar University currently working as a junior software engineer at Dynamic Solution Innovators. My journey in tech has been driven by a profound passion for Competitive Programming and problem-solving, having solved over 2,500 problems across various platforms. I’m always curious about emerging technologies and dedicated to refining my skills to tackle complex challenges.
 
 <hr />
 
