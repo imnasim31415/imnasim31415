@@ -77,10 +77,6 @@ Alongside my professional journey, I have a strong background in <b>Competitive 
 
 <p align="center">
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="70" height="70"/>
-  </a> 
-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/>
   </a>
@@ -97,20 +93,8 @@ Alongside my professional journey, I have a strong background in <b>Competitive 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="70" height="70"/>
   </a> 
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
-  </a>
-
   <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" width="70" height="70"/>
-  </a>
-
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="70" height="70"/>
-  </a>
-
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="70" height="70"/>
   </a>
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
