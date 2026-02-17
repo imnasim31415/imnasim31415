@@ -144,21 +144,3 @@ Alongside my professional journey, I have a strong background in <b>Competitive 
 </ul>
 
 <hr />
-
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnasim31415&show_icons=true&theme=gotham" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&&theme=gotham" width="420"/>
-</p>
-
-<hr />
-
-<h2 align="center"> 🤝 Let's Connect 🤝 </h2>
-
-<p align="center">
-  Feel free to connect with me for collaborations, DevOps discussions, cloud learning, or competitive programming talks 🚀  
-</p>
