@@ -1,12 +1,27 @@
 <h1 align="center">Hello everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
-<p align="center"> Junior Software Engineer @DSi | Competitive Programmer | Programming Instructor | 2xICPC Dhaka Regionalist </p>
 
+<p align="center"> 
+  Junior Software Engineer @DSi | Backend Engineer (.NET) | DevOps & Cloud Enthusiast | RHCSA Certified | Competitive Programmer 
+</p>
 
+<p align="center">
+  <b>2x ICPC Dhaka Regionalist</b> | Solved <b>2500+ problems</b> | AWS + Linux + CI/CD Explorer 🚀
+</p>
 
-Hi, I’m Nasim Hossain, a computer science graduate from Jahangirnagar University currently working as a junior software engineer at Dynamic Solution Innovators. My journey in tech has been driven by a profound passion for Competitive Programming and problem-solving, having solved over 2,500 problems across various platforms. I’m always curious about emerging technologies and dedicated to refining my skills to tackle complex challenges.
+<br/>
+
+Hi, I’m <b>Nasim Hossain</b>, a Computer Science graduate from <b>Jahangirnagar University</b> and currently working as a <b>Junior Software Engineer</b> at <b>Dynamic Solution Innovators (DSi)</b>.  
+I have over <b>1 year of professional experience</b> working with real-world production systems, where I handled production server maintenance, issue debugging, and deployment workflows.
+
+I have hands-on experience with <b>AWS (EC2, S3, IAM)</b> and used <b>PM2</b> for process management and monitoring in production environments.  
+Currently, I’m working as a <b>Backend Engineer</b> on an <b>ASP.NET Core</b> project while actively practicing modern <b>DevOps culture</b> with automation, CI/CD pipelines, and containerization.
+
+I’m also a proud <b>RHCSA (Red Hat Certified System Administrator)</b> 🐧 and passionate about <b>Linux, Docker, GitHub Actions, CI/CD, and Cloud Engineering</b>.  
+Recently, I’ve started exploring <b>Microsoft Azure</b> to expand my cloud knowledge further ☁️.
+
+Alongside my professional journey, I have a strong background in <b>Competitive Programming</b>, having solved over <b>2500+ problems</b> across multiple platforms, which has shaped my ability to think logically and solve complex challenges efficiently.
 
 <hr />
-
 
 <h2 align="center"> 🚀 Programming Languages & Technologies 🚀 </h2>
 
@@ -14,69 +29,136 @@ Hi, I’m Nasim Hossain, a computer science graduate from Jahangirnagar Universi
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" alt="C++" width="70" height="70"/>
   </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/python.png" alt="Python" width="70" height="70"/>
   </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django" width="70" height="70"/>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/256/c-sharp-logo.png" alt="C#" width="70" height="70"/>
   </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/256/net-framework.png" alt=".NET" width="70" height="70"/>
+  </a>
+
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="70" height="70"/>
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="70" height="70"/>
+  </a>
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/html-5.png" alt="HTML5" width="70" height="70"/>
   </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="Java" width="70" height="70"/>
-  </a> 
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/javascript.png" alt="JavaScript" width="70" height="70"/>
   </a> 
+
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/react-native.png" alt="React" width="70" height="70"/>
   </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="MySQL" width="70" height="70"/>
   </a> 
+
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Shell Scripting" width="70" height="70"/>
   </a>
 </p>
 
-
 <hr />
 
-<h2 align="center"> 🛠️ Tools & Platforms 🛠️ </h2>
+<h2 align="center"> 🛠️ Tools, DevOps & Cloud Platforms 🛠️ </h2>
 
 <p align="center">
-  <a href="#" rel="noreferrer">
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="70" height="70"/>
   </a> 
-  <a href="#" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/linux.png" alt="Linux" width="70" height="70"/>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/>
   </a>
-  <a href="#" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/256/windows-11.png" alt="Windows" width="70" height="70"/>
-  </a> 
-  <a href="#" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/adobe-premiere-pro.png" alt="Premiere Pro" width="70" height="70"/>
-  </a> 
-  <a href="#" rel="noreferrer">
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/256/git.png" alt="Git" width="70" height="70"/>
   </a> 
-  <a href="#" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="Postman" width="70" height="70"/>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
   </a> 
-  <a href="#" rel="noreferrer">
+
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="70" height="70"/>
+  </a> 
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
+  </a>
+
+  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" width="70" height="70"/>
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="70" height="70"/>
+  </a>
+
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="70" height="70"/>
+  </a>
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="70"/>
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="70" height="70"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="70" height="70"/>
+  </a>
+
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="70" height="70"/>
   </a> 
-  <a href="#" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/256/docker.png" alt="Docker" width="80" height="70"/>
-  </a>
+
 </p>
 
 <hr />
 
+<h2 align="center"> 📌 Current Focus 📌 </h2>
+
+<ul>
+  <li>🚀 Backend Engineering with <b>ASP.NET Core</b></li>
+  <li>🐧 Linux System Administration (RHCSA)</li>
+  <li>⚙️ CI/CD Pipelines with <b>GitHub Actions</b></li>
+  <li>🐳 Containerization with <b>Docker</b></li>
+  <li>☁️ Cloud Computing with <b>AWS</b> and exploring <b>Azure</b></li>
+</ul>
+
+<hr />
+
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnasim31415&show_icons=true&theme=gotham" width="420"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&&theme=gotham" width="420"/>
 </p>
 
+<hr />
 
+<h2 align="center"> 🤝 Let's Connect 🤝 </h2>
+
+<p align="center">
+  Feel free to connect with me for collaborations, DevOps discussions, cloud learning, or competitive programming talks 🚀  
+</p>
