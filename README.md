@@ -9,17 +9,13 @@
 </p>
 
 <br/>
+Hi, I’m <b>Nasim Hossain</b>, a Computer Science graduate from <b>Jahangirnagar University</b> and currently working as a <b>Jr Software Engineer</b> at <b>Dynamic Solution Innovators (DSi)</b>.  
+I have over <b>1 year of experience</b> working with production systems, handling server maintenance, issue debugging, and deployment workflows.
 
-Hi, I’m <b>Nasim Hossain</b>, a Computer Science graduate from <b>Jahangirnagar University</b> and currently working as a <b>Junior Software Engineer</b> at <b>Dynamic Solution Innovators (DSi)</b>.  
-I have over <b>1 year of professional experience</b> working with real-world production systems, where I handled production server maintenance, issue debugging, and deployment workflows.
+I’ve worked with <b>AWS (EC2, S3, IAM)</b> and used <b>PM2</b> for process management and monitoring. Currently, I’m working as a <b>Backend Engineer</b> on an <b>ASP.NET Core</b> project and actively exploring <b>DevOps practices</b> including <b>Docker, CI/CD, and GitHub Actions</b>.
 
-I have hands-on experience with <b>AWS (EC2, S3, IAM)</b> and used <b>PM2</b> for process management and monitoring in production environments.  
-Currently, I’m working as a <b>Backend Engineer</b> on an <b>ASP.NET Core</b> project while actively practicing modern <b>DevOps culture</b> with automation, CI/CD pipelines, and containerization.
-
-I’m also a proud <b>RHCSA (Red Hat Certified System Administrator)</b> 🐧 and passionate about <b>Linux, Docker, GitHub Actions, CI/CD, and Cloud Engineering</b>.  
-Recently, I’ve started exploring <b>Microsoft Azure</b> to expand my cloud knowledge further ☁️.
-
-Alongside my professional journey, I have a strong background in <b>Competitive Programming</b>, having solved over <b>2500+ problems</b> across multiple platforms, which has shaped my ability to think logically and solve complex challenges efficiently.
+I’m a certified <b>RHCSA</b> 🐧 and currently expanding my cloud knowledge by diving into <b>Microsoft Azure</b> ☁️.  
+I also have a strong Competitive Programming background with <b>2500+ solved problems</b>, which strengthens my problem-solving mindset.
 
 <hr />
 
