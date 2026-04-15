@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
 
 <p align="center"> 
-  Junior Software Engineer @DSi | Backend Engineer (.NET) | DevOps & Cloud Enthusiast | RHCSA Certified | Competitive Programmer 
+  Software Engineer @DSi | Backend Engineer (.NET) | DevOps & Cloud Enthusiast | RHCSA Certified | Competitive Programmer 
 </p>
 
 <p align="center">
