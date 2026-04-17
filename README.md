@@ -1,126 +1,85 @@
-<h1 align="center">Hello everyone<img src="images/wave.gif" height="35" width="35"> <b>Nasim</b> this side </h1>
+<h1 align="center">Hey there <img src="images/wave.gif" height="30" width="30">&nbsp; I'm <b>Nasim Hossain</b></h1>
 
-<p align="center"> 
-  Software Engineer @DSi | Backend Engineer (.NET) | DevOps & Cloud Enthusiast | RHCSA Certified | Competitive Programmer 
-</p>
+<div align="center">
 
-<p align="center">
-  <b>2x ICPC Dhaka Regionalist</b> | Solved <b>2500+ problems</b> | AWS + Linux + CI/CD Explorer 🚀
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-nasimhossain.dev-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://nasimhossain.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imnasim31415-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imnasim31415/)
+[![GitHub](https://img.shields.io/badge/GitHub-imnasim31415-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imnasim31415)
+
+</div>
+
+<div align="center">
+  <code>Software Engineer @DSi</code> · <code>Java Backend Engineer</code> · <code>DevOps & Cloud Enthusiast</code> · <code>RHCSA Certified</code>
+</div>
 
 <br/>
-Hi, I’m <b>Nasim Hossain</b>, a Computer Science graduate from <b>Jahangirnagar University</b> and currently working as a <b>Jr Software Engineer</b> at <b>Dynamic Solution Innovators (DSi)</b>.  
-I have over <b>1 year of experience</b> working with production systems, handling server maintenance, issue debugging, and deployment workflows.
 
-I’ve worked with <b>AWS (EC2, S3, IAM)</b> and used <b>PM2</b> for process management and monitoring. Currently, I’m working as a <b>Backend Engineer</b> on an <b>ASP.NET Core</b> project and actively exploring <b>DevOps practices</b> including <b>Docker, CI/CD, and GitHub Actions</b>.
+<div align="center">
+  <b>2x ICPC Dhaka Regionalist</b> &nbsp;·&nbsp; <b>2500+ Problems Solved</b> &nbsp;·&nbsp; <b>AWS + Linux + CI/CD Explorer</b> 🚀
+</div>
 
-I’m a certified <b>RHCSA</b> 🐧 and currently expanding my cloud knowledge by diving into <b>Microsoft Azure</b> ☁️.  
-I also have a strong Competitive Programming background with <b>2500+ solved problems</b>, which strengthens my problem-solving mindset.
+---
 
-<hr />
+### 🧑‍💻 &nbsp;About Me
 
-<h2 align="center"> 🚀 Programming Languages & Technologies 🚀 </h2>
+I'm a Computer Science graduate from **Jahangirnagar University**, currently working as a **Jr Software Engineer** at **Dynamic Solution Innovators (DSi)** on a US-based fintech project.
 
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" alt="C++" width="70" height="70"/>
-  </a>
+- 🔧 &nbsp;**1+ year** of experience with production systems — server maintenance, issue debugging & deployment workflows
+- ☕ &nbsp;Currently working as a **Java Backend Engineer** on a **US-based fintech** project
+- ⚙️ &nbsp;Previously worked as a Backend Engineer on an **ASP.NET Core** project
+- ☁️ &nbsp;Hands-on with **AWS (EC2, S3, IAM)** and **PM2** for process management & monitoring
+- 🐧 &nbsp;**RHCSA** certified — comfortable with Linux system administration
+- 🐳 &nbsp;Actively exploring **DevOps** — Docker, CI/CD pipelines, GitHub Actions
+- ☁️ &nbsp;Expanding cloud skills into **Microsoft Azure**
+- 🏆 &nbsp;Strong competitive programming background — **2500+ solved problems**
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/python.png" alt="Python" width="70" height="70"/>
-  </a> 
+---
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/c-sharp-logo.png" alt="C#" width="70" height="70"/>
-  </a>
+### 🚀 &nbsp;Languages & Technologies
 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/net-framework.png" alt=".NET" width="70" height="70"/>
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dotnet,django,html,js,react,mysql,bash&theme=dark" />
+</div>
 
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="70" height="70"/>
-  </a>
+---
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="70" height="70"/>
-  </a>
+### 🛠️ &nbsp;Tools, DevOps & Cloud
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/html-5.png" alt="HTML5" width="70" height="70"/>
-  </a> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,aws,azure,postman,vim&theme=dark" />
+</div>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/javascript.png" alt="JavaScript" width="70" height="70"/>
-  </a> 
+---
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/react-native.png" alt="React" width="70" height="70"/>
-  </a>
+### 📌 &nbsp;Current Focus
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="MySQL" width="70" height="70"/>
-  </a> 
+```text
+☕  Backend Engineering       →  Java (Fintech)
+🚀  Previous Backend Work     →  ASP.NET Core
+🐧  System Administration     →  Linux (RHCSA)
+⚙️  CI/CD Pipelines           →  GitHub Actions
+🐳  Containerization          →  Docker
+☁️  Cloud Computing           →  AWS + exploring Azure
+```
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Shell Scripting" width="70" height="70"/>
-  </a>
-</p>
+---
 
-<hr />
+### 📊 &nbsp;GitHub Stats
 
-<h2 align="center"> 🛠️ Tools, DevOps & Cloud Platforms 🛠️ </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnasim31415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-<p align="center">
+<br/>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnasim31415&theme=tokyonight&hide_border=true" />
+</div>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/256/git.png" alt="Git" width="70" height="70"/>
-  </a> 
+---
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
-  </a> 
-
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="70" height="70"/>
-  </a> 
-
-  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" width="70" height="70"/>
-  </a>
-
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="70"/>
-  </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="70" height="70"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="70" height="70"/>
-  </a>
-
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="70" height="70"/>
-  </a> 
-
-</p>
-
-<hr />
-
-<h2 align="center"> 📌 Current Focus 📌 </h2>
-
-<ul>
-  <li>🚀 Backend Engineering with <b>ASP.NET Core</b></li>
-  <li>🐧 Linux System Administration (RHCSA)</li>
-  <li>⚙️ CI/CD Pipelines with <b>GitHub Actions</b></li>
-  <li>🐳 Containerization with <b>Docker</b></li>
-  <li>☁️ Cloud Computing with <b>AWS</b> and exploring <b>Azure</b></li>
-</ul>
-
-<hr />
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</div>
