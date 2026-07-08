@@ -1,85 +1,32 @@
-<h1 align="center">Hey there <img src="images/wave.gif" height="30" width="30">&nbsp; I'm <b>Nasim Hossain</b></h1>
+## Overview
 
-<div align="center">
+I'm a Software Engineer from **Dhaka, Bangladesh**, currently working as a **Java Backend Engineer** at **Dynamic Solution Innovators (DSi)** on a **US-based fintech** platform.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nasimhossain.dev-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://nasimhossain.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imnasim31415-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imnasim31415/)
-[![GitHub](https://img.shields.io/badge/GitHub-imnasim31415-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imnasim31415)
+I enjoy building scalable backend systems, automating deployments, and working across cloud infrastructure and DevOps. My recent focus has been **Java**, **Spring Boot**, **Linux**, **CI/CD**, **containers**, and **cloud-native technologies**.
 
-</div>
+## Highlights
 
-<div align="center">
-  <code>Software Engineer @DSi</code> · <code>Java Backend Engineer</code> · <code>DevOps & Cloud Enthusiast</code> · <code>RHCSA Certified</code>
-</div>
+- 💼 Software Engineer at **Dynamic Solution Innovators (DSi)** working on a **US-based fintech** platform
+- ☕ Production experience building backend services with **Java** and **Spring Boot**
+- ⚙️ Previously developed backend applications using **ASP.NET Core**
+- 🐧 **RHCSA (Red Hat Certified System Administrator)** certified with hands-on Linux administration experience
+- 🚀 Experience with production deployments, monitoring, automation, and cloud infrastructure
+- 🏆 **2× ICPC Dhaka Regionalist** and **2500+ competitive programming problems solved**
 
-<br/>
+## Core Stack
 
-<div align="center">
-  <b>2x ICPC Dhaka Regionalist</b> &nbsp;·&nbsp; <b>2500+ Problems Solved</b> &nbsp;·&nbsp; <b>AWS + Linux + CI/CD Explorer</b> 🚀
-</div>
+- **Backend:** Java, Spring Boot, C#, ASP.NET Core, Python
+- **Cloud & DevOps:** AWS, Azure, Docker, OpenShift, OpenStack Swift, Jenkins, GitHub Actions, Ansible, Datadog
+- **Infrastructure:** Red Hat Enterprise Linux, Linux, Bash, PM2
+- **Data:** Oracle Database, PostgreSQL, MySQL, SQL Server, MongoDB
+- **Tools:** Git, Jira, Postman
+- **Practices:** REST APIs, CI/CD, Agile, System Design
 
----
+## Work
 
-### 🧑‍💻 &nbsp;About Me
-
-I'm a Computer Science graduate from **Jahangirnagar University**, currently working as a **Jr Software Engineer** at **Dynamic Solution Innovators (DSi)** on a US-based fintech project.
-
-- 🔧 &nbsp;**1+ year** of experience with production systems — server maintenance, issue debugging & deployment workflows
-- ☕ &nbsp;Currently working as a **Java Backend Engineer** on a **US-based fintech** project
-- ⚙️ &nbsp;Previously worked as a Backend Engineer on an **ASP.NET Core** project
-- ☁️ &nbsp;Hands-on with **AWS (EC2, S3, IAM)** and **PM2** for process management & monitoring
-- 🐧 &nbsp;**RHCSA** certified — comfortable with Linux system administration
-- 🐳 &nbsp;Actively exploring **DevOps** — Docker, CI/CD pipelines, GitHub Actions
-- ☁️ &nbsp;Expanding cloud skills into **Microsoft Azure**
-- 🏆 &nbsp;Strong competitive programming background — **2500+ solved problems**
-
----
-
-### 🚀 &nbsp;Languages & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dotnet,django,html,js,react,mysql,bash&theme=dark" />
-</div>
-
----
-
-### 🛠️ &nbsp;Tools, DevOps & Cloud
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,aws,azure,postman,vim&theme=dark" />
-</div>
-
----
-
-### 📌 &nbsp;Current Focus
-
-```text
-☕  Backend Engineering       →  Java (Fintech)
-🚀  Previous Backend Work     →  ASP.NET Core
-🐧  System Administration     →  Linux (RHCSA)
-⚙️  CI/CD Pipelines           →  GitHub Actions
-🐳  Containerization          →  Docker
-☁️  Cloud Computing           →  AWS + exploring Azure
-```
-
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnasim31415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnasim31415&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnasim31415&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</div>
+- Backend development for enterprise fintech applications using **Java** and **Spring Boot**
+- Production deployments, release management, monitoring, and issue debugging
+- Infrastructure automation with **Ansible** and CI/CD using **Jenkins** and **GitHub Actions**
+- Containerized deployments with **Docker**, **OpenShift**, and **OpenStack Swift**
+- Application monitoring and observability with **Datadog**
+- Cloud infrastructure and Linux administration across **AWS**, **Azure**, and **Red Hat Enterprise Linux**
